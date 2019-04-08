@@ -1,0 +1,2 @@
+markdown>=3.1
+pelican>=4.0.1
