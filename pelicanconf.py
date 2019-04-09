@@ -33,4 +33,5 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 # THEME='../pelican-alchemy/alchemy'
+# THEME='../html5-dopetrope/'
 THEME='../medius/'
