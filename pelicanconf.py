@@ -21,7 +21,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Larry Fritts', 'https://larryfritts.com/'),
-         ('Richard Riehle', 'https://rriehle.com/'),)
+         ('Richard Riehle', 'https://www.rriehle.dev/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
