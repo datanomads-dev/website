@@ -32,6 +32,6 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-# THEME='../pelican-alchemy/alchemy'
+THEME='../pelican-alchemy/alchemy'
 # THEME='../html5-dopetrope/'
-THEME='../medius/'
+# THEME='../medius/'
